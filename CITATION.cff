@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: gamification-selfregulation-sim
+message: If you use this code, please cite the accompanying paper.
+authors:
+  - family-names: Kim
+    given-names: Minchul
+    affiliation: Dept. of AI Game Convergence, Seoil University
+version: 1.0.0
+date-released: 2026-10-06
+license: MIT
